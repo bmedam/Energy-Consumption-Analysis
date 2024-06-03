@@ -64,3 +64,13 @@ This project analyzes the PJM Hourly Energy Consumption data to identify trends,
 - **Monthly Trends**: January and February show higher energy consumption, likely due to heating needs in winter.
 - **Hourly Trends**: Peak consumption occurs in the evening, around 18:00 and 19:00.
 - **Weekly Trends**: Weekdays, especially Tuesday, Wednesday, and Thursday, have higher consumption compared to weekends.
+
+## Future Work
+- Complete the analysis for the remaining regions.
+- Explore advanced modeling techniques (e.g., time series forecasting, machine learning models).
+- Incorporate additional features such as weather data to improve predictions.
+
+
+## Acknowledgments
+PJM Interconnection LLC for providing the data.
+Kaggle for hosting the dataset.
