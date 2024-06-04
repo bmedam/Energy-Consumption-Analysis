@@ -8,20 +8,8 @@ This project analyzes the PJM Hourly Energy Consumption data to identify trends,
 - **Source**: PJM Interconnection LLC
 - **Description**: Hourly power consumption data from PJM's website, measured in megawatts (MW). The data spans various regions and dates.
 - **Files**:
-  - `AEP_hourly.csv` (Completed)
-  - `COMED_hourly.csv` (In Progress)
-  - `DAYTON_hourly.csv` (In Progress)
-  - `DEOK_hourly.csv` (In Progress)
-  - `DOM_hourly.csv` (In Progress)
-  - `DUQ_hourly.csv` (In Progress)
-  - `EKPC_hourly.csv` (In Progress)
-  - `FE_hourly.csv` (In Progress)
-  - `NI_hourly.csv` (In Progress)
-  - `PJME_hourly.csv` (In Progress)
-  - `PJMW_hourly.csv` (In Progress)
-  - `PJM_Load_hourly.csv` (In Progress)
-  - `pjm_hourly_est.csv` (In Progress)
-
+  - `AEP_hourly.csv`
+    
 ## Analysis Steps
 ### 1. Data Loading and Preprocessing
 - Load the data for each region.
